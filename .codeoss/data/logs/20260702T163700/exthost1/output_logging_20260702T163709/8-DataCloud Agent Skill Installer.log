@@ -1,0 +1,53 @@
+[2026-07-02T16:37:16.062Z] Activating Agent Skill Installer
+[2026-07-02T16:37:16.124Z] appName: Code OSS for Cloud Shell, ideType: 6
+[2026-07-02T16:37:16.124Z] Profile antigravity-ide is NOT active
+[2026-07-02T16:37:16.124Z] Profile antigravity is NOT active
+[2026-07-02T16:37:16.124Z] Profile jetski is NOT active
+[2026-07-02T16:37:16.124Z] Profile cursor is NOT active
+[2026-07-02T16:37:16.124Z] Profile copilot is NOT active
+[2026-07-02T16:37:16.124Z] Profile gemini-code-assist is active
+[2026-07-02T16:37:19.782Z] Checking skills for Gemini Code Assist in /home/obsidian_detailers/.gemini/skills. Force=false
+[2026-07-02T16:37:19.783Z] No previous manifest found or it was invalid.
+[2026-07-02T16:37:19.785Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills
+[2026-07-02T16:37:19.792Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/accidental-data-loss-prevention
+[2026-07-02T16:37:19.792Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/bigquery-data-transfer-service
+[2026-07-02T16:37:19.792Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/building-data-apps
+[2026-07-02T16:37:19.792Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/data-autocleaning
+[2026-07-02T16:37:19.793Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/dataform-bigquery
+[2026-07-02T16:37:19.793Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/dbt-bigquery
+[2026-07-02T16:37:19.793Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/developing-with-bigquery
+[2026-07-02T16:37:19.793Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/discovering-gcp-data-assets
+[2026-07-02T16:37:19.793Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/gcloud-auth-verification
+[2026-07-02T16:37:19.793Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/federate-lakehouse-catalog
+[2026-07-02T16:37:19.793Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/gcp-composer-troubleshooting
+[2026-07-02T16:37:19.793Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/gcp-data-pipelines
+[2026-07-02T16:37:19.793Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/gcp-dataflow
+[2026-07-02T16:37:19.793Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/gcp-pipeline-orchestration
+[2026-07-02T16:37:19.794Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/gcp-pipeline-resource-provisioning
+[2026-07-02T16:37:19.794Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/gcp-spark
+[2026-07-02T16:37:19.794Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/managing-python-dependencies
+[2026-07-02T16:37:19.794Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/ml-best-practices
+[2026-07-02T16:37:19.794Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/notebook-guidance
+[2026-07-02T16:37:19.794Z] Ensured destination directory exists: /home/obsidian_detailers/.gemini/skills/skill-repair
+[2026-07-02T16:37:19.870Z] Copied skill accidental-data-loss-prevention to /home/obsidian_detailers/.gemini/skills/accidental-data-loss-prevention
+[2026-07-02T16:37:19.873Z] Copied skill discovering-gcp-data-assets to /home/obsidian_detailers/.gemini/skills/discovering-gcp-data-assets
+[2026-07-02T16:37:19.874Z] Copied skill gcloud-auth-verification to /home/obsidian_detailers/.gemini/skills/gcloud-auth-verification
+[2026-07-02T16:37:19.874Z] Copied skill federate-lakehouse-catalog to /home/obsidian_detailers/.gemini/skills/federate-lakehouse-catalog
+[2026-07-02T16:37:19.875Z] Copied skill gcp-composer-troubleshooting to /home/obsidian_detailers/.gemini/skills/gcp-composer-troubleshooting
+[2026-07-02T16:37:19.875Z] Copied skill gcp-data-pipelines to /home/obsidian_detailers/.gemini/skills/gcp-data-pipelines
+[2026-07-02T16:37:19.876Z] Copied skill managing-python-dependencies to /home/obsidian_detailers/.gemini/skills/managing-python-dependencies
+[2026-07-02T16:37:19.877Z] Copied skill ml-best-practices to /home/obsidian_detailers/.gemini/skills/ml-best-practices
+[2026-07-02T16:37:19.877Z] Copied skill notebook-guidance to /home/obsidian_detailers/.gemini/skills/notebook-guidance
+[2026-07-02T16:37:19.878Z] Copied skill dbt-bigquery to /home/obsidian_detailers/.gemini/skills/dbt-bigquery
+[2026-07-02T16:37:19.880Z] Copied skill dataform-bigquery to /home/obsidian_detailers/.gemini/skills/dataform-bigquery
+[2026-07-02T16:37:19.882Z] Copied skill skill-repair to /home/obsidian_detailers/.gemini/skills/skill-repair
+[2026-07-02T16:37:19.928Z] Copied skill gcp-pipeline-resource-provisioning to /home/obsidian_detailers/.gemini/skills/gcp-pipeline-resource-provisioning
+[2026-07-02T16:37:19.929Z] Copied skill data-autocleaning to /home/obsidian_detailers/.gemini/skills/data-autocleaning
+[2026-07-02T16:37:19.929Z] Copied skill bigquery-data-transfer-service to /home/obsidian_detailers/.gemini/skills/bigquery-data-transfer-service
+[2026-07-02T16:37:20.021Z] Copied skill gcp-spark to /home/obsidian_detailers/.gemini/skills/gcp-spark
+[2026-07-02T16:37:20.030Z] Copied skill gcp-pipeline-orchestration to /home/obsidian_detailers/.gemini/skills/gcp-pipeline-orchestration
+[2026-07-02T16:37:20.030Z] Copied skill building-data-apps to /home/obsidian_detailers/.gemini/skills/building-data-apps
+[2026-07-02T16:37:20.033Z] Copied skill gcp-dataflow to /home/obsidian_detailers/.gemini/skills/gcp-dataflow
+[2026-07-02T16:37:20.035Z] Copied skill developing-with-bigquery to /home/obsidian_detailers/.gemini/skills/developing-with-bigquery
+[2026-07-02T16:37:20.035Z] Finished copying skills to /home/obsidian_detailers/.gemini/skills. Updated 20 skills.
+[2026-07-02T16:37:20.037Z] Installation completed. Manifest updated.

@@ -1,0 +1,7 @@
+2026-07-02 18:25:36.751 [warning] Dir "/home/obsidian_detailers/.pixi/envs" is not watchable (directory does not exist)
+2026-07-02 18:25:36.751 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-07-02 18:25:36.768 [info] > conda info --json
+2026-07-02 18:25:36.772 [info] Python interpreter path: /bin/python
+2026-07-02 18:25:37.025 [info] > pyenv which python
+2026-07-02 18:25:37.025 [info] cwd: .
+2026-07-02 18:25:40.005 [info] Starting Jedi language server for obsidian_detailers.

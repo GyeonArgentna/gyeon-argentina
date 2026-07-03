@@ -1,0 +1,11 @@
+2026-07-03 13:03:42.889 [info] 
+
+
+
+
+2026-07-03 13:03:42.913 [info] Extension host agent started.
+2026-07-03 13:03:44.785 [info] [127.0.0.1][03b08d46][ManagementConnection] New connection established.
+2026-07-03 13:03:45.154 [info] [127.0.0.1][cc0a10d3][ExtensionHostConnection] New connection established.
+2026-07-03 13:03:46.565 [info] [127.0.0.1][cc0a10d3][ExtensionHostConnection] <1498> Launched Extension Host Process.
+2026-07-03 13:03:47.400 [info] [127.0.0.1][cc0a10d3][ExtensionHostConnection] <1498> [reconnection-grace-time] Extension host: read VSCODE_RECONNECTION_GRACE_TIME=10800000ms (10800s)
+

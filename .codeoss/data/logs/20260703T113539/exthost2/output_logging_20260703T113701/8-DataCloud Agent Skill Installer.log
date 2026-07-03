@@ -1,0 +1,10 @@
+[2026-07-03T11:37:09.781Z] Activating Agent Skill Installer
+[2026-07-03T11:37:09.803Z] appName: Code OSS for Cloud Shell, ideType: 6
+[2026-07-03T11:37:09.803Z] Profile antigravity-ide is NOT active
+[2026-07-03T11:37:09.803Z] Profile antigravity is NOT active
+[2026-07-03T11:37:09.803Z] Profile jetski is NOT active
+[2026-07-03T11:37:09.803Z] Profile cursor is NOT active
+[2026-07-03T11:37:09.803Z] Profile copilot is NOT active
+[2026-07-03T11:37:09.803Z] Profile gemini-code-assist is active
+[2026-07-03T11:37:10.327Z] Checking skills for Gemini Code Assist in /home/obsidian_detailers/.gemini/skills. Force=false
+[2026-07-03T11:37:10.330Z] Bundle checksum match. Skipping installation.

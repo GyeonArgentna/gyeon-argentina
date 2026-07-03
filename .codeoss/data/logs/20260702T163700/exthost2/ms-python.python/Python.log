@@ -1,0 +1,18 @@
+2026-07-02 16:41:54.715 [warning] Dir "/home/obsidian_detailers/.pixi/envs" is not watchable (directory does not exist)
+2026-07-02 16:41:57.993 [info] Starting Environment refresh
+2026-07-02 16:41:58.087 [info] Skipping ActivatedEnv Detection:  process.env.VSCODE_CLI !== '1'
+2026-07-02 16:41:58.109 [info] > hatch env show --json
+2026-07-02 16:41:58.109 [info] cwd: .
+2026-07-02 16:41:58.161 [info] > conda info --json
+2026-07-02 16:41:58.165 [info] Python interpreter path: /bin/python
+2026-07-02 16:41:58.240 [info] > /bin/python -I /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/get_output_via_markers.py /google/devshell/editor/code-oss-for-cloud-shell/extensions/ms-python.python/python_files/interpreterInfo.py
+2026-07-02 16:41:58.240 [info] Environments refresh paths discovered: 249 milliseconds
+2026-07-02 16:41:58.316 [info] Environments refresh finished (event): 325 milliseconds
+2026-07-02 16:41:58.322 [info] Environment refresh took 332 milliseconds
+2026-07-02 16:41:58.396 [info] Starting Environment refresh
+2026-07-02 16:41:58.434 [info] Environments refresh finished (event): 38 milliseconds
+2026-07-02 16:41:58.434 [info] Environments refresh paths discovered: 38 milliseconds
+2026-07-02 16:41:58.437 [info] Environment refresh took 41 milliseconds
+2026-07-02 16:41:58.450 [info] > pyenv which python
+2026-07-02 16:41:58.450 [info] cwd: .
+2026-07-02 16:42:00.545 [info] Starting Jedi language server for obsidian_detailers.
